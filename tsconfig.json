@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015"],
+    "module": "CommonJS",
+    "outDir": "dist",
+    "strict": true,
+    "sourceMap": false,
+    "target": "ES6",
+    "preserveConstEnums": true,
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
